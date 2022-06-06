@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Track Hello Rails front end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is a practice project to implement a connection between a Ruby on Rails back-end and React front-end.
 
-## Available Scripts
 
-In the project directory, you can run:
+# Demo Link
+[Click here](https://epic-benz-1e003c.netlify.app)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Screenshot
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Image of the desktop view](screenshot.png)
 
-### `npm test`
+# Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple steps.
 
-### `npm run build`
+- You can clone this repo by typing `git clone https://github.com/AtillaTahak/hello-rails-front-end` on your terminal.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Type `cd hello-rails-front-end` to access the project on the terminal.
+  
+- Run `npm install` from your editor's terminal.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Run `npm run build` from your editor's terminal.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Run `npm run start` from your editor's terminal to view the project in your browser.
 
-### `npm run eject`
+- Run `npx hint` . to check for HTML Linter errors.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Run `npx stylelint "**/*.{css,scss}"` to check for CSS Linter errors.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# This project was built with:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+HTML5
 
-## Learn More
+CSS3
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+React
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Version Control System
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+GIT
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# 👤 Authors
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+👤 **ATİLLA TAHA KÖRDÜĞÜM**
 
-### Advanced Configuration
+- GitHub: [@AtillaTahak](https://github.com/AtillaTahak)
+- Twitter: [@AtillaTahaa](https://twitter.com/AtillaTahaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/atilla-taha-kördüğüm-a93702186/)
+- Blog: [Blog](atillataha.blogspot.com)
+- Youtube: [YouTube](https://www.youtube.com/channel/UCmoD0x4Z9vdG2PCsI5p8FYg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+# 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions, issues, and feature requests are welcome!
 
-### `npm run build` fails to minify
+Feel free to check the [issues page](https://github.com/AtillaTahak/space-travelers/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Show your support
+
+Give a ⭐️ if you like this project!
+
+# Acknowledgement
+- Hat tip to anyone whose code was a source of inspiration.
+- A big thanks to [@microverseinc](https://github.com/microverseinc) for providing the involvement API.
+
+# 📝 License
+
+This project is [MIT](./MIT.md) licensed.
