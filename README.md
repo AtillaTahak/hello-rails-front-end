@@ -3,13 +3,12 @@
 > This is a practice project to implement a connection between a Ruby on Rails back-end and React front-end.
 
 
-# Demo Link
-[Click here](https://epic-benz-1e003c.netlify.app)
+# Frontend Demo Link
+[Click here](https://pacific-falls-34020.herokuapp.com/)
 
+# Backend Demo Link
+[Click here](https://gentle-anchorage-05317.herokuapp.com/api/v1/message)
 
-# Screenshot
-
-![Image of the desktop view](screenshot.png)
 
 # Getting Started
 
